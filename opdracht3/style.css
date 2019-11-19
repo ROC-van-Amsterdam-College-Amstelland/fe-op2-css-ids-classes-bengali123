@@ -1,2 +1,22 @@
+header{
+    background-color: chartreuse;
 
-
+}
+main{
+    background-color: chocolate;
+}
+footer{
+    background-color: crimson;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    display: flex;
+    text-decoration: solid;
+list-style-type:none;
+}
+li{
+    margin-left: 10px;
+}
