@@ -79,7 +79,7 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 
 
 - [x] Als je een van de onderstaande taken hebt afgerond zet dan in README.md een 'x' tussen de [ ]. In je repository wordt dan bij de opdracht de taak afgevinkt.
-- [ ] 1. Geef de header, main en footer een width van 100%
+- [x] 1. Geef de header, main en footer een width van 100%
 - [ ] 2. Geef de header en footer een height van 20%
 - [ ] 3. Geef de main een height van 80% en een achtergrondkleur naar keuze
 - [ ] 4. Pas de header, footer CSS regel aan, voeg een achtergrondkleur naar keuze toe

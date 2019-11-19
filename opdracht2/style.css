@@ -13,3 +13,14 @@ img{
 }
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
+main{
+width: 100%;
+}
+header{
+width: 100%;
+height: 20%;
+}
+footer{
+width: 100%;
+height: 20%;
+}
